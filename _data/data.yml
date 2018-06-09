@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: Online Resume
     url: 'https://jamagirl.github.io'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    #about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Georgiana Wright
@@ -15,22 +15,10 @@ sidebar:
     
     # Sidebar links
     email: georgiana.wright99@gmail.com
-    phone: 256 430 1854
+    phone: (256) 430-1854
      #do not add http://
     linkedin: georgiana-wright
-    github: jamagirl
     
-
-    languages:
-        - language:
-          idiom: English
-          level: Native
-        - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
         
     interests:
         - interest:
